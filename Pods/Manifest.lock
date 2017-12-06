@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AMapFoundation (1.4.1)
+  - AMapLocation (2.4.0):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (5.2.1):
+    - AMapFoundation (~> 1.2)
+  - ESPullToRefresh (2.6)
+  - HandyJSON (1.7.2)
+  - JCore (1.1.5)
+  - JPush (3.0.6):
+    - JCore (~> 1.1.1)
+  - ReachabilitySwift (3)
+  - SnapKit (3.2.0)
+  - SwiftyJSON (3.1.4)
+  - UMengUShare/Core (6.4.5):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.5)
+  - UMengUShare/Social/ReducedQQ (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedSina (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.5):
+    - UMengUShare/Core
+  - UMengUShare/UI (6.4.5):
+    - UMengUShare/Core
+  - WechatOpenSDK (1.7.8)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.1)
+  - AMapLocation
+  - AMapSearch
+  - ESPullToRefresh
+  - HandyJSON (~> 1.7.2)
+  - JPush
+  - ReachabilitySwift
+  - SnapKit (~> 3.2.0)
+  - SwiftyJSON
+  - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedSina
+  - UMengUShare/Social/ReducedWeChat
+  - UMengUShare/UI
+  - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  AMapFoundation: 9cc5198980873cca29bb70466a84b3bd922c0e65
+  AMapLocation: 47b62b5381a66e4d0c2931b70ffde72682427896
+  AMapSearch: 4979b98adf56ed4dabe735435ed78d759ba0c21f
+  ESPullToRefresh: 85f4990acf87f78c6a1466bbbee7a75d7de24db9
+  HandyJSON: e7ad0483005826baba1d1c251cd98d0aa8bd8cce
+  JCore: 9bd9c770c877c583d98b90a68792b8361974c231
+  JPush: c41be50eb1a574a66aeb68d237f00a4ec6ec3a82
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  UMengUShare: a5711c54e640b04e3048e931d2b88d50f9cfa55c
+  WechatOpenSDK: ad1e7be1b66416df847ac50830c798b70c9e365e
+
+PODFILE CHECKSUM: ce41c484848510df21406174639b47b2e806608f
+
+COCOAPODS: 1.1.1

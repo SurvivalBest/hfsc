@@ -1,0 +1,20 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+target 'hfsc' do
+    pod 'AlamofireImage', '~> 3.1'
+    pod 'SwiftyJSON'
+    pod 'HandyJSON', '~> 1.7.2'
+    pod 'ReachabilitySwift'
+    pod 'UMengUShare/UI'
+    pod 'UMengUShare/Social/ReducedQQ'
+    pod 'UMengUShare/Social/ReducedSina'
+    pod 'UMengUShare/Social/ReducedWeChat'
+    pod 'JPush'
+    pod 'WechatOpenSDK'
+    pod 'ESPullToRefresh'
+    pod 'SnapKit', '~> 3.2.0'
+    pod 'AMapLocation'
+    pod 'AMapSearch'
+end
